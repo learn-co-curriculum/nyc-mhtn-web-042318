@@ -8,3 +8,4 @@
 1. [Hashketball Review](https://www.youtube.com/watch?v=hcEDeT05cxo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/01-hashketball-review)
 2. [Hashes & the Internet](https://www.youtube.com/watch?v=Hpta5GoyNw8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/02-hashes-and-the-internet)
 3. [Intro to Object-Oriented Programming](https://youtu.be/Xns9Q8pI32Y) | [Part 2](https://youtu.be/r8QB-D5X9Ds) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/03-intro-oo)
+4. [Object-Oriented Relationships: One-to-Many](https://www.youtube.com/watch?v=M0YNdo9D7QM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/04-one-to-many)
