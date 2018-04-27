@@ -10,4 +10,4 @@
 3. [Intro to Object-Oriented Programming](https://youtu.be/Xns9Q8pI32Y) | [Part 2](https://youtu.be/r8QB-D5X9Ds) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/03-intro-oo)
 4. [Object-Oriented Relationships: One-to-Many](https://www.youtube.com/watch?v=M0YNdo9D7QM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/04-one-to-many)
 5. [Object-Oriented Relationships: Many-to-Many](https://www.youtube.com/watch?v=2q0DUsGBhQg) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/05-many-to-many)
-6. [Inheritance]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/blob/master/06-inheritance/animal.rb)
+6. [Inheritance](https://www.youtube.com/watch?v=oddJAr-SImk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/blob/master/06-inheritance/animal.rb)
