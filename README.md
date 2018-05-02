@@ -11,3 +11,6 @@
 4. [Object-Oriented Relationships: One-to-Many](https://www.youtube.com/watch?v=M0YNdo9D7QM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/04-one-to-many)
 5. [Object-Oriented Relationships: Many-to-Many](https://www.youtube.com/watch?v=2q0DUsGBhQg) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/05-many-to-many)
 6. [Inheritance](https://www.youtube.com/watch?v=oddJAr-SImk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/blob/master/06-inheritance/animal.rb)
+7. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/09-active-record-intro)
+8. [Bridging SQL & Ruby](https://www.youtube.com/watch?v=tBH0QTbQ9T0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/08-bridging-ruby-and-sql)
+9. ActiveRecord Intro | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/09-active-record-intro)
