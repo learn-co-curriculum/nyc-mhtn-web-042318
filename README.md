@@ -14,3 +14,4 @@
 7. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/09-active-record-intro)
 8. [Bridging SQL & Ruby](https://www.youtube.com/watch?v=tBH0QTbQ9T0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/08-bridging-ruby-and-sql)
 9. [ActiveRecord Intro](https://www.youtube.com/watch?v=3_YGxLwiQR4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/09-active-record-intro)
+10. [ActiveRecord Associations](https://www.youtube.com/watch?v=vICs3fu2TbI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/10-active-record-associations)
