@@ -16,7 +16,6 @@
 
 ## Wednesday, May 9, 2018
 
-* Ian Canino
 * Jeffrey Hwang
 * Louis Shi
 * Sydney Garay
@@ -27,6 +26,7 @@
 * Michelle Blevins
 * Ryan Ghaida
 * Sangeetha Rajeev
+* Ian Canino
 
 
 # Module 2
