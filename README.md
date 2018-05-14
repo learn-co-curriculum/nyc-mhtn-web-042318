@@ -16,3 +16,8 @@
 9. [ActiveRecord Intro](https://www.youtube.com/watch?v=3_YGxLwiQR4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/09-active-record-intro)
 10. [ActiveRecord Associations](https://www.youtube.com/watch?v=vICs3fu2TbI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/10-active-record-associations)
 11. [Object-Oriented Relationships Review Code](https://github.com/MinesJA/OO-mini-project)
+12. [RSpec & Testing](https://youtu.be/d9ym9H1F0WQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/12-intro-tdd)
+
+## Module 2
+1. [Rack and the Internet](https://youtu.be/UmZyKuC5o38) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/13-internet-intro)
+2. [MVC & Sinatra](https://youtu.be/7XvkyIp4H98) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/14-sinatra-mvc-intro/catfinder)
