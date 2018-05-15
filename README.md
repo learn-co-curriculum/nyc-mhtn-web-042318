@@ -21,3 +21,4 @@
 ## Module 2
 1. [Rack and the Internet](https://youtu.be/UmZyKuC5o38) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/13-internet-intro)
 2. [MVC & Sinatra](https://youtu.be/7XvkyIp4H98) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/14-sinatra-mvc-intro/catfinder)
+3. [Sinatra Forms](https://youtu.be/akwCHZ4tdvs) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/15-sinatra-forms/coffeeshop)
