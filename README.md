@@ -23,3 +23,4 @@
 2. [MVC & Sinatra](https://youtu.be/7XvkyIp4H98) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/14-sinatra-mvc-intro/catfinder)
 3. [Sinatra Forms](https://youtu.be/akwCHZ4tdvs) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/15-sinatra-forms/coffeeshop)
 4. [Sinatra with Relationships](https://www.youtube.com/watch?v=XCzR8zq04UI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/16-sinatra-relationships/zoo)
+5. [Intro to Rails](https://www.youtube.com/watch?v=5beWnuqPexQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/17-rails-intro/theater)
