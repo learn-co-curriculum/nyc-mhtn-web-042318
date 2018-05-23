@@ -25,3 +25,4 @@
 4. [Sinatra with Relationships](https://www.youtube.com/watch?v=XCzR8zq04UI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/16-sinatra-relationships/zoo)
 5. [Intro to Rails](https://www.youtube.com/watch?v=5beWnuqPexQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/17-rails-intro/theater)
 6. [Rails Forms & Validations](https://www.youtube.com/watch?v=QLnf90pf45U) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/18-rails-forms/cupcakery)
+7. [Rails Associations](https://www.youtube.com/watch?v=z0CEJBD83go) | [Part 2](https://www.youtube.com/watch?v=QoB6dhlAluk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/19-rails-associations/tacobellcorp)
