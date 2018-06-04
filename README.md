@@ -27,3 +27,6 @@
 6. [Rails Forms & Validations](https://www.youtube.com/watch?v=QLnf90pf45U) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/18-rails-forms/cupcakery)
 7. [Rails Associations](https://www.youtube.com/watch?v=z0CEJBD83go) | [Part 2](https://www.youtube.com/watch?v=QoB6dhlAluk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/19-rails-associations/tacobellcorp)
 8. [Rails Auth](https://www.youtube.com/watch?v=BxJDUbcUDtQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/20-rails-auth/authapp)
+
+## Module 3
+1. [Introduction to JS](https://www.youtube.com/watch?v=C26_-JEJXk8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/21-introduction-to-js), [Starter Code Repo](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/22-js-gift-starter-repository)
