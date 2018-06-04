@@ -30,3 +30,4 @@
 
 ## Module 3
 1. [Introduction to JS](https://www.youtube.com/watch?v=C26_-JEJXk8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/21-introduction-to-js), [Starter Code Repo](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/22-js-gift-starter-repository)
+1. [Scope and closures](https://www.youtube.com/watch?v=SjNTTTMauSU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/23-scope-and-closures)
