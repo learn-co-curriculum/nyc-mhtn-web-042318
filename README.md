@@ -31,3 +31,5 @@
 ## Module 3
 1. [Introduction to JS](https://www.youtube.com/watch?v=C26_-JEJXk8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/21-introduction-to-js), [Starter Code Repo](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/22-js-gift-starter-repository)
 1. [Scope and closures](https://www.youtube.com/watch?v=SjNTTTMauSU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/23-scope-and-closures)
+1. [Introduction to Functional Programming](https://www.youtube.com/watch?v=h6t6HWU-dzk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/24-functional-programming)
+1. [The JavaScript 'this' keyword](https://www.youtube.com/watch?v=MzYbYZsiGvU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/25-this-keyword)
