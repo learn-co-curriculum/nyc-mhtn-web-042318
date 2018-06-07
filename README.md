@@ -33,3 +33,6 @@
 1. [Scope and closures](https://www.youtube.com/watch?v=SjNTTTMauSU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/23-scope-and-closures)
 1. [Introduction to Functional Programming](https://www.youtube.com/watch?v=h6t6HWU-dzk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/24-functional-programming)
 1. [The JavaScript 'this' keyword](https://www.youtube.com/watch?v=MzYbYZsiGvU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/25-this-keyword)
+1. The JS Prototype Chain and OO JS [Part I](https://www.youtube.com/watch?v=EhpAiaITGb0&feature=youtu.be),[Part II](https://www.youtube.com/watch?v=ld9c7omuWpI&feature=youtu.be)  | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/26-prototype-chain-and-oo-js)
+1. [The DOM](https://www.youtube.com/watch?v=HZ3AaM53_po&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/27-the-dom)
+1. [JS Events (Link coming soon)]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/28-js-events)
