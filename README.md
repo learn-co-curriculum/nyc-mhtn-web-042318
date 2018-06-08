@@ -35,4 +35,6 @@
 1. [The JavaScript 'this' keyword](https://www.youtube.com/watch?v=MzYbYZsiGvU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/25-this-keyword)
 1. The JS Prototype Chain and OO JS [Part I](https://www.youtube.com/watch?v=EhpAiaITGb0&feature=youtu.be),[Part II](https://www.youtube.com/watch?v=ld9c7omuWpI&feature=youtu.be)  | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/26-prototype-chain-and-oo-js)
 1. [The DOM](https://www.youtube.com/watch?v=HZ3AaM53_po&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/27-the-dom)
-1. [JS Events (Link coming soon)]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/28-js-events)
+1. [JS Events](https://www.youtube.com/watch?v=_afSeRxRMTc&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/28-js-events)
+1. [AJAX](https://www.youtube.com/watch?v=GQSjamp9YVA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/30-ajax)
+1. [JS Pokemon review](https://www.youtube.com/watch?v=tVuTWILjcV8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/31-js-pokemon-search-practice-assignment)
