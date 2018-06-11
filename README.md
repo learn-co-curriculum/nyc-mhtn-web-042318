@@ -38,3 +38,4 @@
 1. [JS Events](https://www.youtube.com/watch?v=_afSeRxRMTc&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/28-js-events)
 1. [AJAX](https://www.youtube.com/watch?v=GQSjamp9YVA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/30-ajax)
 1. [JS Pokemon review](https://www.youtube.com/watch?v=tVuTWILjcV8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/31-js-pokemon-search-practice-assignment)
+1. [Dom and AJAX review (respectable-twitter)](https://www.youtube.com/watch?v=lBrMtMQkuks&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/32-dom-and-ajax-review-respectable-twitter)
