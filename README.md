@@ -41,3 +41,4 @@
 1. [Dom and AJAX review (respectable-twitter)](https://www.youtube.com/watch?v=lBrMtMQkuks&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/32-dom-and-ajax-review-respectable-twitter)
 1. [Code organization](https://www.youtube.com/watch?v=Okw2z7yeV00&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/33-code-organization)
 1. DOM and Fetch review | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/34-creatingElements)
+1. [Rails API](https://www.youtube.com/watch?v=_PTvlWsMRdY&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/35-rails-api)
