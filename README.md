@@ -43,3 +43,8 @@
 1. DOM and Fetch review | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/34-creatingElements)
 1. [Rails API](https://www.youtube.com/watch?v=_PTvlWsMRdY&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/35-rails-api)
 1. [Task lister OO Review](https://www.youtube.com/watch?v=sRH18xMMkZA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/)
+
+## Module 4
+
+1. [Intro to React](https://youtu.be/szCoX6f714M) | [Part II (components & props)](https://youtu.be/-pI6bVBoOU8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/37-intro-to-react)
+3. [State and Events](https://youtu.be/1y5-pUacL_g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/38-state-and-events)
