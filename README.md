@@ -47,4 +47,5 @@
 ## Module 4
 
 1. [Intro to React](https://youtu.be/szCoX6f714M) | [Part II (components & props)](https://youtu.be/-pI6bVBoOU8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/37-intro-to-react)
-3. [State and Events](https://youtu.be/1y5-pUacL_g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/38-state-and-events)
+2. [State and Events](https://youtu.be/1y5-pUacL_g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/38-state-and-events)
+3. [State, Events, and Forms](https://youtu.be/xDNg_tR967s) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/39-state-event-forms)
