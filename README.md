@@ -50,3 +50,5 @@
 2. [State and Events](https://youtu.be/1y5-pUacL_g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/38-state-and-events)
 3. [State, Events, and Forms](https://youtu.be/xDNg_tR967s) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/39-state-event-forms)
 4. [Lifting State (and Forms)](https://youtu.be/PahH9xMdRQQ) | Code is the same as above.
+5. [Thinking in React](https://youtu.be/oCmopA1Xw5c) | [Part 2](https://youtu.be/WPP8sNt1fRU) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/40-thinking-in-react/)
+6. [Component Lifecycle Methods](https://youtu.be/Gd235So9CXI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/41-component-lifecycle-methods)
