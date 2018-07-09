@@ -56,3 +56,4 @@
 8. [React Router](https://youtu.be/riQz3vQAEes) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/43-react-router)
 9. [Mock Code Challenge Review](https://youtu.be/SYPk5q39vwQ) | [Mock Code Challenge](https://github.com/hysan/react-karaoke-challenge/) | [Code (backend)](https://github.com/hysan/react-karaoke-challenge-backend)
 10. [React JWT Auth](https://youtu.be/aGGbanWzOlI) | [Part 2](https://youtu.be/bCYluF1fu4o) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/44-react-jwt-auth)
+11. [Higher Order Components (HOC)](https://youtu.be/KZps-AJ3Pxo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/45-hoc)
