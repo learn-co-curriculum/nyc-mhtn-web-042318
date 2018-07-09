@@ -57,3 +57,4 @@
 9. [Mock Code Challenge Review](https://youtu.be/SYPk5q39vwQ) | [Mock Code Challenge](https://github.com/hysan/react-karaoke-challenge/) | [Code (backend)](https://github.com/hysan/react-karaoke-challenge-backend)
 10. [React JWT Auth](https://youtu.be/aGGbanWzOlI) | [Part 2](https://youtu.be/bCYluF1fu4o) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/44-react-jwt-auth)
 11. [Higher Order Components (HOC)](https://youtu.be/KZps-AJ3Pxo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/45-hoc)
+12. [Boozer React Review](https://youtu.be/k9w3N1Oxw6c) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/46-boozer-react-review)
