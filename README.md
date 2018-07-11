@@ -58,5 +58,5 @@
 10. [React JWT Auth](https://youtu.be/aGGbanWzOlI) | [Part 2](https://youtu.be/bCYluF1fu4o) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/44-react-jwt-auth)
 11. [Higher Order Components (HOC)](https://youtu.be/KZps-AJ3Pxo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/45-hoc)
 12. [Boozer React Review](https://youtu.be/k9w3N1Oxw6c) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/46-boozer-react-review)
-13. [Intro to Redux](https://youtu.be/02g0JNmai8Q) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/47-intro-to-redux)
+13. [Intro to Redux](https://youtu.be/02g0JNmai8Q) | [Part 2](https://youtu.be/NH9Uqh2ZSAk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/47-intro-to-redux)
 14. [Mock Code Challenge Review II](https://youtu.be/GLpUvI8775o) | [Code](https://github.com/hysan/react-boardgame-review)
