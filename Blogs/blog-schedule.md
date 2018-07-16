@@ -43,14 +43,14 @@
 * Edward Norton
 * Eelan Tung
 
-## Monday, May 28, 2018
+## Wednesday, May 30, 2018
 
 * Ian Canino
 * Jeffrey Hwang
 * Louis Shi
 * Sydney Garay
 
-## Wednesday, May 30, 2018
+## Thursday, May 31, 2018
 
 * Mendy Wolosow
 * Michelle Blevins
