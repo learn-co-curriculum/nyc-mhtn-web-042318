@@ -87,7 +87,7 @@
 * Sangeetha Rajeev
 
 
-# Module 4
+# Module 5
 
 ## Monday, July 16, 2018
 
@@ -103,7 +103,7 @@
 
 ## Wednesday, July 18, 2018
 
-* Ian Canino
+
 * Jeffrey Hwang
 * Louis Shi
 * Sydney Garay
@@ -116,8 +116,6 @@
 * Sangeetha Rajeev
 
 
-# Module 5
-
 ## Monday, July 23, 2018
 
 * Aaron Na
@@ -126,13 +124,14 @@
 
 ## Wednesday, July 25, 2018
 
+* Ryan O'Toole
 * Derek Chen
 * Edward Norton
 * Eelan Tung
 
 ## Monday, July 30, 2018
 
-* Ian Canino
+* Matthew Talbot
 * Jeffrey Hwang
 * Louis Shi
 * Sydney Garay
