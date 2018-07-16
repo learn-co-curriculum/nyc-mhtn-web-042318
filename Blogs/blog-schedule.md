@@ -89,26 +89,26 @@
 
 # Module 4
 
-## Monday, July 2, 2018
+## Monday, July 16, 2018
 
 * Aaron Na
 * Aleksandr Roslyakov
 * Betsy Sallee
 
-## Wednesday, July 4, 2018
+## Tuesday, July 17, 2018
 
 * Derek Chen
 * Edward Norton
 * Eelan Tung
 
-## Monday, July 9, 2018
+## Wednesday, July 18, 2018
 
 * Ian Canino
 * Jeffrey Hwang
 * Louis Shi
 * Sydney Garay
 
-## Wednesday, July 11, 2018
+## Thursday, July 19, 2018
 
 * Mendy Wolosow
 * Michelle Blevins
