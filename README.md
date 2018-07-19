@@ -61,3 +61,4 @@
 13. [Intro to Redux](https://youtu.be/02g0JNmai8Q) | [Part 2](https://youtu.be/NH9Uqh2ZSAk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/47-intro-to-redux)
 14. [Mock Code Challenge Review II](https://youtu.be/GLpUvI8775o) | [Code](https://github.com/hysan/react-boardgame-review)
 15. [DIY Redux](https://youtu.be/jtYzo878sbU) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/49-diy-redux)
+16. [Redux combineReducers & Thunk](https://youtu.be/JWsRVF0XKtU) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/50-combine-reducers-and-thunk)
